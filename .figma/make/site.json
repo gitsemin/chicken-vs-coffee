@@ -1,0 +1,10 @@
+{
+  "description": "Explore 2020–2024 chicken restaurant and coffee shop trends across Korea, compare regional counts, and see where cafés outnumber chicken shops.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
